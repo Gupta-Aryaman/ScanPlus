@@ -9,7 +9,7 @@ Key features:
 * Alert System: Sends an email alert containing all the prescription details (medicines, doses, and category) to the patient's registered email address.
 
 ## Approach
-**For more in depth information, [refer this article](https://aryaman.space/from-scribbles-to-structured-data-processing-handwritten-prescriptions-with-spark-nlp/).**
+**For more in depth information, [refer this article](https://aryaman.space/blog/medical-text-extraction/).**
 
    ### 1. Training the NER Model
 
